@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: randomduck-astro-starter-c5e
+package: randomduck/astro-starter-c5e
